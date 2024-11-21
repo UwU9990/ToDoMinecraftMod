@@ -1,4 +1,4 @@
 1. Do some testing
 2. untransfer
 3. ket Experiment09
-4. Done
+4. Press "Done"
